@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bongo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bongo\\.nuget\\packages"
+    ]
+  }
+}
